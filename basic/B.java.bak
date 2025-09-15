@@ -1,0 +1,11 @@
+class B
+{
+	public static void main(String[] args) 
+	{
+		 int k = 10;
+		System.out.println(i);
+		i=20;
+		System.out.println(i);
+		System.out.println(k);
+	}
+}
